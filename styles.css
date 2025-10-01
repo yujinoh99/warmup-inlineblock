@@ -1,0 +1,23 @@
+html {
+    font-family: sans-serif;
+}
+
+.page-title {
+    font-weight: 100;
+    font-size: 50px;
+}
+
+.room-heading {
+    font-family: serif;
+}
+
+.house-item {
+    font-family: "Story Script", sans-serif;
+    border-style: solid;
+    border-width: 4px;
+    border-color: darkolivegreen;
+    border-radius: 10px;
+    padding: 20px;
+    display: inline-block;
+    margin: 4px;
+}
